@@ -1,4 +1,3 @@
-### Note_Making
 # Note Making Application
 
 A web-based note-taking application designed to help users create, edit, and organize their notes efficiently. This application aims to provide a simple and user-friendly interface for managing daily notes.
